@@ -1,0 +1,85 @@
+body {
+    background-image: url("Background.png");
+    }
+h1{
+    color:#84DCCF;
+    position:absolute;
+    left:60px;
+    top:100px;
+    font-family:sans-serif;
+}
+p1{ 
+    color:#84DCCF;
+    position:absolute;
+    left:60px;
+    top:210px;
+    font-family:sans-serif;
+
+
+}
+p2{
+    color:#E8EEF2;
+    position:absolute;
+    left:60px;
+    top:250px;
+
+
+}
+p3{
+    color:#E8EEF2;
+    position:absolute;
+    left:500px;
+    top:250px;
+
+}
+p4{
+    color:#84DCCF;
+    position:absolute;
+    left:500px;
+    top:210px;
+    font-family:sans-serif;
+
+}
+p5{ color:#84DCCF;
+    position:absolute;
+    right:160px;
+    top:210px;
+    font-family:sans-serif;
+
+}
+p6{
+    color:#E8EEF2;
+    position:absolute;
+    right:60px;
+    top:250px;
+
+
+}
+.arrow{
+    position: absolute;
+    bottom:100px;
+    left:600px;
+    opacity:0.2;
+
+}
+.fb{ 
+     position: absolute;
+     bottom:50px;
+     right:150px;
+     
+    }
+.git{
+    position: absolute;
+    bottom:50px;
+    right:100px;
+
+}
+.locator{
+    position: absolute;
+    bottom:50px;
+    right:50px;
+}
+
+
+
+
